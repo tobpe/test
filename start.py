@@ -6,4 +6,4 @@
 import app.test
 
 print "start"
-print "test"
+print "test2"
